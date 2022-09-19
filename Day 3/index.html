@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-block">
+        <div class="upper-block">
+            <h2 id="heading">Sign Up</h2>
+            <p id = "sub-heading"></p>
+        </div>
+        <div class="lower-block" id="form-content">
+            <div >
+                <p>Username : </p>
+                <input id="username-input" type="text">
+                <p id="username-warning" class="warning-tag">Username must be between 3 and 25 characters</p>
+            </div>
+            <div >
+                <p>Email : </p>
+                <input id="email-input" type="text">
+                <p id="email-warning" class="warning-tag">Invalid Email</p>
+            </div>
+            <div >
+                <p>Password : </p>
+                <input id="password-input" type="password">
+                <button id="eye-btn1" class="eye-btn"><i id="flash-eye1" class="fa fa-solid fa-eye-slash"></i></button>
+                <p id="password-warning" class="warning-tag">Password must has at least 8 characters or longer that include at least 1 lowercase character, 1 uppercase character, 1 number and 1 special character in (!@#$%^&*)</p>
+            </div>
+            <div >
+                <p>Confirm Password : </p>
+                <input id="confirm-password-input" type="password">
+                <button id="eye-btn2" class="eye-btn"><i id="flash-eye2" class="fa fa-solid fa-eye-slash"></i></button>
+                <p id="confirm-password-warning" class="warning-tag">Please enter your password again</p>
+            </div>
+            <div id="submit-btn">
+                <button id="signin-btn">SIGN UP</button>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="https://kit.fontawesome.com/09d556d0d3.js" crossorigin="anonymous"></script>
+<script src="/script.js"></script>
+</html>
