@@ -1,16 +1,25 @@
-import {GET_PRODUCTS} from '../type'
+import {GET_PRODUCTS, PRODUCT_LOADING} from '../type'
 
 const initialState = {
-    products: []
+    products: [],
+    loading: false,
 }
 
 export default function productReducer(state=initialState, action){
     // console.log('payload', action);
-    if(action.type === GET_PRODUCTS){
+   if(action.type === GET_PRODUCTS){
         return {
             ...state,
-            products: action.payload
+            loading: false,
+            products: [...state.products, ...action.payload]
         }
     }
+    if(action.type === PRODUCT_LOADING){
+        return {
+            ...state,
+            loading: true,
+        }
+    }
+
     return state;
 }

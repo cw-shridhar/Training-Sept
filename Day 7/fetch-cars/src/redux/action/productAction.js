@@ -1,27 +1,30 @@
 import axios from 'axios'
 import * as actions from '../type'
 
-export const getProducts = () => (dispatch) => {
-
-    axios.get('https://reqres.in/api/users/').then((res)=>{
+export const getProducts = (pageNumber) => (dispatch) => {
+    dispatch(setLoading())
+    axios.get(`https://reqres.in/api/users/?page=${pageNumber}`).then((res)=>{
+        // console.log(`page ${pageNumber}`, res.data.data);
         dispatch({
             type: actions.GET_PRODUCTS,
             payload: res.data.data
         })
+        // console.log('data : ', res.data.data);
+    })
+    .catch((e)=>{
+        console.log('e');
+        dispatch({
+            type: actions.GET_PRODUCTS,
+            payload: null
+        })
     })
 
-    // let products = []
-    // axios.get('https://reqres.in/api/users/')
-    // .then((res)=>{
-    //     console.log(res);
-    // })
-    console.log('hey');
-    // console.log('heyhey', products);
+    // console.log('page change');
+    
+}
 
-    // let result =  fetch("https://reqres.in/api/users/").then((res) => res.json());
-    // console.log('result', result.data);
-    // return {
-    //     type: actions.GET_PRODUCTS,
-    //     payload: result
-    // }
+export const setLoading = ()=>{
+    return {
+        type: actions.PRODUCT_LOADING,
+    }
 }
