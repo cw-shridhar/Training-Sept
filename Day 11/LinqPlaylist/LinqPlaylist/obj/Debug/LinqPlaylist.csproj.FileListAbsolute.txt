@@ -1,0 +1,8 @@
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\bin\Debug\LinqPlaylist.exe.config
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\bin\Debug\LinqPlaylist.exe
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\bin\Debug\LinqPlaylist.pdb
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\obj\Debug\LinqPlaylist.csproj.AssemblyReference.cache
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\obj\Debug\LinqPlaylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\obj\Debug\LinqPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\obj\Debug\LinqPlaylist.exe
+C:\Users\shridhar\Desktop\Training\Day 11\LinqPlaylist\LinqPlaylist\obj\Debug\LinqPlaylist.pdb

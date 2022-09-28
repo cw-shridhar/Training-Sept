@@ -1,0 +1,8 @@
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\shridhar\Desktop\Training\Day 10\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
