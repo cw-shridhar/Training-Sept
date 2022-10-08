@@ -1,0 +1,8 @@
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\bin\Debug\DependencyInjectionTutorial.exe.config
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\bin\Debug\DependencyInjectionTutorial.exe
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\bin\Debug\DependencyInjectionTutorial.pdb
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\obj\Debug\DependencyInjectionTutorial.csproj.AssemblyReference.cache
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\obj\Debug\DependencyInjectionTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\obj\Debug\DependencyInjectionTutorial.csproj.CoreCompileInputs.cache
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\obj\Debug\DependencyInjectionTutorial.exe
+C:\Users\shridhar\Desktop\Training\Day 12\DependencyInjectionTutorial\DependencyInjectionTutorial\obj\Debug\DependencyInjectionTutorial.pdb
