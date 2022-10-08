@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace DependencyInjectionTutorial
 {
     public interface IAccount
-    { 
+    {
+        
         void PrintDetails();
     }
     class CurrentAccount : IAccount
